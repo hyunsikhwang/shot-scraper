@@ -1,1 +1,3 @@
-http://132.145.94.73:8503/
+- url: http://132.145.94.73:8503/
+  output: shot.png
+  height: 800
